@@ -1,0 +1,54 @@
+h1:hover{
+
+  color: red;
+
+  text-decoration-line: underline;
+  text-decoration-color: red;
+
+}
+body{
+  background-color: #FFCDDD;
+}
+
+#pp {
+  width: 500px;
+  line-height: 1.5;
+}
+
+#pp::first-letter {
+  color: white;
+  background-color: black;
+  border-radius: 2px;
+  box-shadow: 3px 3px 0 red;
+  font-size: 250%;
+  padding: 6px 3px;
+  margin-right: 6px;
+  float: left;
+}
+
+img:hover{
+
+  background-color: gold;
+}
+
+
+.ba{
+  background-color: green;
+  height: 200px;
+}
+.cir{
+  border-radius: 20%;
+}
+
+
+.broc{
+  background-color: grey;
+  height: 200px;
+}
+
+.hh1{
+  color: blue;
+  font-size: 80px;
+
+
+}
